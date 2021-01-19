@@ -1,4 +1,4 @@
-# Netflix-clone
+# Twitter-clone
 ### [Live Site](https://twitterclone1234.herokuapp.com/)
 
 ![twitter](https://i.ibb.co/z8gncH0/Capture13.png)
